@@ -1,0 +1,105 @@
+{
+  "banners": [
+    { "path": "../assets/images/banner-2.jpg", "text": "Best offer" },
+    { "path": "../assets/images/banner-3.jpg", "text": "Together cheaper" },
+    { "path": "../assets/images/banner-1.jpg", "text": "Free delivery" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "url": "('../assets/images/pi-1.png')",
+      "name": "Quadro formadgio 1",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "16.00",
+      "price": "15.00"
+    },
+    {
+      "id": 2,
+      "url": "('../assets/images/pi-2.png')",
+      "name": "Quadro formadgio 2",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 3,
+      "url": "('../assets/images/pi-3.png')",
+      "name": "Quadro formadgio 3",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "20.00",
+      "price": "19.00"
+    },
+    {
+      "id": 4,
+      "url": "('../assets/images/pi-4.png')",
+      "name": "Quadro formadgio 4",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 5,
+      "url": "('../assets/images/pi-1.png')",
+      "name": "Quadro formadgio 5",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 6,
+      "url": "('../assets/images/pi-2.png')",
+      "name": "Quadro formadgio 6",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.50"
+    },
+    {
+      "id": 7,
+      "url": "('../assets/images/pi-3.png')",
+      "name": "Quadro formadgio 7",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 8,
+      "url": "('../assets/images/pi-4.png')",
+      "name": "Quadro formadgio 8",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 9,
+      "url": "('../assets/images/pi-1.png')",
+      "name": "Quadro formadgio 9",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 10,
+      "url": "('../assets/images/pi-2.png')",
+      "name": "Quadro formadgio 10",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 11,
+      "url": "('../assets/images/pi-3.png')",
+      "name": "Quadro formadgio 11",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    },
+    {
+      "id": 12,
+      "url": "('../assets/images/pi-4.png')",
+      "name": "Quadro formadgio 12",
+      "descr": "Chicken, Cheese, Mashrooms, Tomatos",
+      "oldPrice": "",
+      "price": "15.00"
+    }
+  ]
+}
